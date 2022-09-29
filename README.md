@@ -11,7 +11,7 @@ To use this configuration, we must first install the following packages and reso
 ### Neovim 
 ```bash
 # Arch Linux 
-sudo pacman -S neovim nodejs python python-pip python-neovim
+sudo pacman -S neovim nodejs python python-pip python-neovim npm
 
 # Some other dependencies
 pip install pynvim pipenv 
