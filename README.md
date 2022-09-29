@@ -11,10 +11,10 @@ To use this configuration, we must first install the following packages and reso
 ### Neovim 
 ```bash
 # Arch Linux 
-sudo pacman -S neovim nodejs python python-pip python-neovim npm
+sudo pacman -S neovim nodejs python python-pip python-neovim npm python-jedi
 
 # Some other dependencies
-pip install pynvim pipenv 
+pip install pynvim pipenv jedi
 ```
 ### Clone this repository and copy my configs:
 ```bash
